@@ -4,7 +4,6 @@
         <título_original>Old School</título_original> 
         <nacionalidad>Estados Unidos</nacionalidad> 
         <género>Comedia</género> 
-        <clasificación edad="tp"/> 
         <sinopsis> 
             Mitch, Frank y Beanie son tres amigos treintañeros cuyas vidas no son exactamente lo que esperaban. Mitch tiene una novia ninfómana que se mete en la cama con el primero que agarra. Frank se ha casado y su matrimonio nada 
             tiene que ver con las juergas salvajes que organizaban años atrás. Y Beanie es 
@@ -17,7 +16,7 @@
             <actor>Vince Vaughn</actor> 
         </reparto> 
     </película> 
-        <película código="p17" duración="06"> 
+        <película código="p2" duración="06"> 
         <título>EL ORO DE MOSCÚ</título> 
         <nacionalidad>España</nacionalidad> 
         <género>Comedia</género> 
@@ -37,12 +36,11 @@
             <actor>María Barranco</actor> 
         </reparto> 
     </película>
-    <película código="p1" duración="152" año="2002"> 
+    <película código="p3" duración="132" año="2018"> 
         <título>El vicio del poder</título> 
         <título_original>Vice</título_original> 
         <nacionalidad>Estados Unidos</nacionalidad> 
         <género>Drama. Comedia. Biográfico</género> 
-        <clasificación edad="tp"/> 
         <sinopsis> 
             La historia real jamás revelada sobre cómo Dick Cheney (Christian Bale), un callado e inquisitivo burócrata de Washington, que ejerció silenciosamente un inmenso poder y acabó convirtiéndose en vicepresidente de los Estados Unidos durante el mandato de George W. Bush, con consecuencias para su país y el resto del mundo que aún se dejan sentir hoy en día.
         </sinopsis> 
@@ -54,10 +52,33 @@
             <actor>Aidan Gail</actor> 
             <actor>Steve Carell</actor> 
         </reparto> 
+    </película>
+    <película código="p4" duración="152" año="2002"> 
+        <título>Torrente, el brazo tonto de la ley</título> 
+        <nacionalidad>España</nacionalidad> 
+        <género>Comedia</género>  
+        <sinopsis> 
+            Un ex policía le pide ayuda a un amigo al descubrir a una banda de narcotraficantes que opera en un restaurante chino.
+        </sinopsis> 
+        <director>Santiago Segura</director> 
+        <reparto> 
+            <actor>Santiago Segura</actor>
+            <actor>Javier Cámara</actor>
+            <actor>Neus Asensi</actor>
+            <actor>Chus Lampreave</actor>
+            <actor>Tony Leblanc</actor>
+            <actor>Julio Sanjuán</actor>
+            <actor>Jimmy Barnatan</actor>
+            <actor>Darío Paso</actor>
+            <actor>Nuria Carbonell</actor>
+            <actor>Daniel Monzón</actor>
+            <actor>Carlos Lucas</actor>
+            <actor>Santiago Barullo</actor>
+        </reparto> 
     </película> 
 </cartelera>
 
-añadir 8 peliculas mas
+añadir 6 peliculas mas
 
 <película código="p1" duración="152" año="2002"> 
         <título></título> 
